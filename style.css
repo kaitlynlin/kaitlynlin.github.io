@@ -1,2 +1,22 @@
-.h1 {text-align: center;}
+h1 
+{text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 
+h2 
+{text-align:center;}
+
+p 
+{text-align:center;}
+
+body
+{background-color: #dedcfc;}
+
+p1
+{text-decoration: underline;}
+
+div
+{text-align:center;}
+
+img
+{width: 400px;
+height: 350px;}
